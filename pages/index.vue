@@ -9,7 +9,7 @@
           class="flex flex-col items-stretch justify-center h-full sm:items-start"
         >
           <div
-            class="my-5 text-2xl font-bold tracking-widest text-yellow-300 lg:text-6xl hover:text-white"
+            class="my-5 text-2xl font-bold tracking-widest text-yellow-300 lg:text-4xl hover:text-white"
           >
             2 X P T
           </div>
