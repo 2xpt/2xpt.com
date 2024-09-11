@@ -29,9 +29,13 @@
             <div class="relative inline-block mr-3">
               <NuxtLink to="/about"> <Xbut textinput="About" /> </NuxtLink>
             </div>
-            <div class="relative inline-block mr-3">
-              <NuxtLink to="/contact"> <Xbut textinput="CONTACT" /> </NuxtLink>
-            </div>
+          </div>
+
+          <div class="my-3 font-mono text-base tracking-wide uppercase">
+            Get in touch :
+            <a href="mailto:2xpt@proton.me" class="text-yellow-300">
+              2xpt@proton.me
+            </a>
           </div>
         </div>
       </div>
