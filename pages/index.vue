@@ -20,10 +20,13 @@
 
           <div class="my-3 uppercase">
             <div class="relative inline-block mr-3">
+              <NuxtLink to="/service"> <Xbut textinput="Services" /> </NuxtLink>
+            </div>
+            <div class="relative inline-block mr-3">
               <NuxtLink to="/blog"> <Xbut textinput="Blog" /> </NuxtLink>
             </div>
             <div class="relative inline-block mr-3">
-              <NuxtLink to="/service"> <Xbut textinput="Services" /> </NuxtLink>
+              <NuxtLink to="/about"> <Xbut textinput="About" /> </NuxtLink>
             </div>
             <div class="relative inline-block mr-3">
               <NuxtLink to="/contact"> <Xbut textinput="CONTACT" /> </NuxtLink>
