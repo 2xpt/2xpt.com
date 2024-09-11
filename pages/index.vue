@@ -2,7 +2,7 @@
   <section class="py-5 lg:py-20">
     <div class="flex flex-wrap">
       <div class="w-full lg:w-3/5">
-        <Lottie loc="/ani/circle.json" />
+        <Lottie loc="/ani/circle.json" class="transition-transform duration-300 ease-in-out hover:rotate-45" />
       </div>
       <div class="w-full lg:w-2/5">
         <div
