@@ -1,6 +1,6 @@
 <template>
   <div
-    class="px-4 py-2 mr-3 text-base tracking-wider text-center text-black no-underline align-middle transition-transform duration-300 transform bg-yellow-300 cursor-pointer hover:bg-black hover:text-white hover:scale-110"
+    class="px-4 py-2 mr-3 text-base tracking-wider text-center text-black no-underline align-middle transition-transform duration-300 transform bg-yellow-300 cursor-pointer rounded-2xl hover:bg-black hover:text-white hover:scale-110"
   >
     {{ textinput }}
   </div>
