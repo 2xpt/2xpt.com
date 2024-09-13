@@ -2,7 +2,9 @@
   <section class="py-5 lg:py-20">
     <div class="flex flex-wrap">
       <div class="w-full lg:w-3/5">
-        <Lottie loc="/ani/circle.json" class="rotate-on-hover" />
+        <Lottie
+          loc="ani/home.json"
+        />
       </div>
       <div class="w-full lg:w-2/5">
         <div
@@ -44,18 +46,3 @@
     </div>
   </section>
 </template>
-
-<style scoped>
-@keyframes rotate {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.rotate-on-hover:hover {
-  animation: rotate 5s linear infinite;
-}
-</style>
