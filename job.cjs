@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 
+
 const contentDir = path.join(__dirname, 'content');
 
 fs.readdir(contentDir, (err, files) => {
