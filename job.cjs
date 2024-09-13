@@ -30,8 +30,8 @@ fs.readdir(contentDir, (err, files) => {
       return;
     }
 
-    // Generate slug from title
-    const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-') + '.md';
+    // Generate slug from title and add '2xpt-' prefix
+    const slug = '2xpt-' + title.toLowerCase().replace(/[^a-z0-9]+/g, '-') + '.md';
     const newFilePath = path.join(contentDir, slug);
 
     // Rename the file
