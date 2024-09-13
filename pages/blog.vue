@@ -13,7 +13,8 @@
             <div style="height: 300px">
               <img
                 class="object-cover w-full h-full rounded-2xl"
-                src="https://ipfs.io/ipfs/QmSsUfeS2EXfe6QJa5G3MYoJXmLhgr7kzUMo9cVJM6wfmq"
+                :src="article.image"
+                alt="image"
               />
             </div>
             <div class="px-4 pt-6 pb-3">
