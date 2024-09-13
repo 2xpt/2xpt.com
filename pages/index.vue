@@ -23,11 +23,13 @@
             <div class="relative inline-block mr-3">
               <NuxtLink to="/service"> <Xbut textinput="Services" /> </NuxtLink>
             </div>
-            <div class="relative inline-block mr-3">
-              <NuxtLink to="/blog"> <Xbut textinput="Blog" /> </NuxtLink>
-            </div>
+
             <div class="relative inline-block mr-3">
               <NuxtLink to="/about"> <Xbut textinput="About" /> </NuxtLink>
+            </div>
+
+            <div class="relative inline-block mr-3">
+              <NuxtLink to="/blog"> <Xbut textinput="Blog" /> </NuxtLink>
             </div>
           </div>
 
@@ -42,7 +44,6 @@
     </div>
   </section>
 </template>
-
 
 <style scoped>
 @keyframes rotate {
