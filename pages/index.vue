@@ -2,9 +2,7 @@
   <section class="py-5 lg:py-20">
     <div class="flex flex-wrap">
       <div class="w-full lg:w-3/5">
-        <Lottie
-          loc="ani/home.json"
-        />
+        <Lottie loc="ani/home.json" />
       </div>
       <div class="w-full lg:w-2/5">
         <div
@@ -29,16 +27,16 @@
             <div class="relative inline-block mr-3">
               <NuxtLink to="/about"> <Xbut textinput="About" /> </NuxtLink>
             </div>
-
-            <div class="relative inline-block mr-3">
-              <NuxtLink to="/blog"> <Xbut textinput="Blog" /> </NuxtLink>
-            </div>
           </div>
 
           <div class="my-3 font-mono text-base tracking-wide uppercase">
             Get in touch :
             <a href="mailto:2xpt@proton.me" class="text-yellow-300">
               2xpt@proton.me
+            </a>
+            /
+            <a href="https://x.com/2xptcom" class="text-yellow-300">
+              X (Twitter)
             </a>
           </div>
         </div>
