@@ -3,10 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "mys": "rm -r content && git clone https://github.com/2xpt/blog.git content && node job.cjs",
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "npm run mys && nuxt generate",
+    "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
