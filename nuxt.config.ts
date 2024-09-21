@@ -13,4 +13,12 @@ export default defineNuxtConfig({
       ],
     },
   },
+  site: {
+    url: "https://2xpt.com",
+    name: "2XPT - 2X Performance Training",
+    description:
+      "We deliver innovative, secure, and customized technology solutions that drive organizational success.",
+    defaultLocale: "en",
+    image: "https://2xpt.com/banner.png",
+  },
 });
