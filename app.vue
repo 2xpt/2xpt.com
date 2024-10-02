@@ -1,14 +1,6 @@
 <template>
-  <div
-    class="relative flex flex-col items-center justify-center min-h-screen overflow-hidden text-white bg-black"
-  >
-    <NuxtLink
-      v-if="route.path !== '/'"
-      to="/"
-      class="w-full py-5 font-bold text-center text-black bg-white"
-    >
-      BACK TO HOME</NuxtLink
-    >
+  <div class="relative flex flex-col items-center justify-center min-h-screen overflow-hidden text-white bg-black font-mono">
+    <NuxtLink v-if="route.path !== '/'" to="/" class="w-full py-5 font-extrabold text-center text-white text-3xl">2XPT</NuxtLink>
     <div class="container p-5 m-auto">
       <NuxtPage />
     </div>
