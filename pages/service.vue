@@ -2,15 +2,115 @@
   <div>
     <section class="py-12 bg-black md:py-24 lg:py-32">
       <div class="max-w-md mx-auto lg:max-w-none">
-        <div class="flex flex-wrap items-center mb-20">
+        <div class="flex flex-wrap items-center mb-20 -mx-4">
           <div class="w-full px-4 mb-8 lg:w-1/2 lg:mb-0">
-            <h3 class="max-w-md text-6xl font-bold text-yellow-500 font-heading">PROJECT DEVELOPMENT</h3>
+            <h3
+              class="max-w-md text-6xl font-bold text-yellow-500 font-heading"
+            >
+              IT CONSULTING
+            </h3>
           </div>
           <div class="w-full px-4 lg:w-1/2">
             <Lottie loc="/ani/circle.json" />
           </div>
         </div>
-        <div class="flex flex-wrap">
+        <div class="flex flex-wrap -mx-4">
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="1"
+              title="Workflow Automation"
+              subtitle="Automate repetitive tasks, streamline operations. Custom solutions for data entry, document processing, and more."
+            />
+          </div>
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="2"
+              title="Data Analysis"
+              subtitle="Expert data analysis, visualization, and reporting. Custom solutions for data mining, predictive analytics, and more."
+            />
+          </div>
+          <div class="w-full px-4 lg:w-1/3">
+            <Featdis
+              id="3"
+              title="Bookkeeping"
+              subtitle="Expert bookkeeping, accounting, and financial analysis. Custom solutions for payroll, invoicing, and more."
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-12 bg-black md:py-24 lg:py-32">
+      <div class="max-w-md mx-auto lg:max-w-none">
+        <div class="flex flex-wrap items-center mb-20 -mx-4">
+          <div class="w-full px-4 mb-8 lg:w-1/2 lg:mb-0">
+            <h3
+              class="max-w-md text-6xl font-bold text-yellow-500 font-heading"
+            >
+              COMPUTER FORENSICS
+            </h3>
+          </div>
+          <div class="w-full px-4 lg:w-1/2">
+            <Lottie loc="/ani/circle.json" />
+          </div>
+        </div>
+        <div class="flex flex-wrap -mx-4">
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="1"
+              title="Lost Crypto Recovery"
+              subtitle="Reclaim lost cryptocurrencies. Expert assistance for forgotten passwords, inaccessible wallets, ensuring streamlined recovery."
+            />
+          </div>
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="2"
+              title="Hacked Crypto Recovery"
+              subtitle="Restore hacked assets, fortify security. Expert investigation, recovery strategies for compromised accounts, thefts."
+            />
+          </div>
+          <div class="w-full px-4 lg:w-1/3">
+            <Featdis
+              id="3"
+              title="Blockchain Forensics"
+              subtitle="Trace cyberattacks, identify hackers. Advanced analysis, digital footprints tracing within blockchain networks."
+            />
+          </div>
+
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="4"
+              title="Digital Forensics"
+              subtitle="Investigate digital crimes, data breaches. Expert analysis, evidence collection, and reporting for legal proceedings."
+            />
+          </div>
+
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="5"
+              title="Mobile Forensics"
+              subtitle="Recover lost data, investigate mobile crimes. Expert analysis, evidence collection, and reporting for legal proceedings."
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-12 bg-black md:py-24 lg:py-32">
+      <div class="max-w-md mx-auto lg:max-w-none">
+        <div class="flex flex-wrap items-center mb-20 -mx-4">
+          <div class="w-full px-4 mb-8 lg:w-1/2 lg:mb-0">
+            <h3
+              class="max-w-md text-6xl font-bold text-yellow-500 font-heading"
+            >
+              PROJECT DEVELOPMENT
+            </h3>
+          </div>
+          <div class="w-full px-4 lg:w-1/2">
+            <Lottie loc="/ani/circle.json" />
+          </div>
+        </div>
+        <div class="flex flex-wrap -mx-4">
           <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
             <Featdis
               id="01"
