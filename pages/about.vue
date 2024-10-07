@@ -90,16 +90,7 @@ const team = ref([
     role: "CTO and Co-Founder",
     image: "https://cdn.devdojo.com/images/june2021/avt-07.jpg",
   },
-  {
-    name: "Susan Peterson",
-    role: "Marketing Directory",
-    image: "https://cdn.devdojo.com/images/june2021/avt-20.jpg",
-  },
-  {
-    name: "Tommy Barnes",
-    role: "Designer",
-    image: "https://cdn.devdojo.com/images/june2021/avt-09.jpg",
-  },
+
   {
     name: "Ron Jenson",
     role: "Senior Developer",
@@ -110,15 +101,7 @@ const team = ref([
     role: "Web Developer",
     image: "https://cdn.devdojo.com/images/june2021/avt-13.jpg",
   },
-  {
-    name: "Kelly Richards",
-    role: "Sales Manager",
-    image: "https://cdn.devdojo.com/images/june2021/avt-16.jpg",
-  },
-  {
-    name: "Alexis Jordan",
-    role: "Affiliate Manager",
-    image: "https://cdn.devdojo.com/images/june2021/avt-08.jpg",
-  },
 ]);
+
+team.value = team.value.sort(() => Math.random() - 0.5);
 </script>
