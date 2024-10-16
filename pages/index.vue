@@ -34,8 +34,8 @@
               2xpt@proton.me
             </a>
             /
-            <a href="https://x.com/2xptcom" class="text-yellow-300">
-              X (Twitter)
+            <a href="https://t.me/hello2xpt" class="text-yellow-300">
+              Telegram
             </a>
           </div>
         </div>
