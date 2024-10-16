@@ -35,7 +35,7 @@
             </a>
             /
             <a href="https://t.me/hello2xpt" class="text-yellow-300">
-              Telegram (@hello2xpt)
+              Telegram
             </a>
           </div>
         </div>
