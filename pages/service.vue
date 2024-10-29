@@ -211,7 +211,7 @@
         <div class="flex flex-wrap items-center mb-20 -mx-4">
           <div class="w-full px-4 mb-8 lg:w-1/2 lg:mb-0">
             <h3
-              class="max-w-md text-6xl font-bold text-yellow-500 font-heading"
+              class="max-w-md text-6xl font-bold text-yellow-500 uppercase font-heading"
             >
               Buisness Development
             </h3>
