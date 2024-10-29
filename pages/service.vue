@@ -205,5 +205,42 @@
         </div>
       </div>
     </section>
+
+    <section class="py-12 bg-black md:py-24 lg:py-32">
+      <div class="max-w-md mx-auto lg:max-w-none">
+        <div class="flex flex-wrap items-center mb-20 -mx-4">
+          <div class="w-full px-4 mb-8 lg:w-1/2 lg:mb-0">
+            <h3
+              class="max-w-md text-6xl font-bold text-yellow-500 font-heading"
+            >
+              Buisness Development
+            </h3>
+          </div>
+        </div>
+        <div class="flex flex-wrap -mx-4">
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="1"
+              title="Workflow Automation"
+              subtitle="Automate  tasks, streamline operations. Increase efficiency, reduce costs, and more."
+            />
+          </div>
+          <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
+            <Featdis
+              id="2"
+              title=" Data Analysis"
+              subtitle=" Expert data analysis, visualization, and reporting. Custom solutions for data mining, predictive analytics, and more."
+            />
+          </div>
+          <div class="w-full px-4 lg:w-1/3">
+            <Featdis
+              id="3"
+              title="Buisness Scaling"
+              subtitle="Software development, deployment, and maintenance. Expert solutions for startups, enterprises, and more."
+            />
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </template>
