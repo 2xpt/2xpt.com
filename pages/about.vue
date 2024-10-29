@@ -83,17 +83,17 @@ const team = ref([
   {
     name: "Aman S",
     role: "Advisor and Co-Founder",
-    image: "https://cdn.devdojo.com/images/june2021/avt-03.jpg",
+    image: "https://ipfs.io/ipfs/QmdeGZhpRp59tkjDFJ59NXBJ5fhBppeKYaTUEceG3xtti3",
   },
   {
     name: "Anchal J",
     role: "Managing Director",
-    image: "https://cdn.devdojo.com/images/june2021/avt-07.jpg",
+    image: "https://ipfs.io/ipfs/QmV9NDihs8acD9bY2iQvcP9JmfY5iwJspzUKeBp5d64E8a",
   },
   {
     name: "Madhav P",
     role: " Lead Developer and Co-Founder",
-    image: "https://cdn.devdojo.com/images/june2021/avt-07.jpg",
+    image: "https://ipfs.io/ipfs/QmdeGZhpRp59tkjDFJ59NXBJ5fhBppeKYaTUEceG3xtti3",
   },
 ]);
 
