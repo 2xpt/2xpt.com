@@ -2,7 +2,7 @@
   <section class="py-12 overflow-hidden">
     <div class="flex flex-wrap items-center -mx-4">
       <div class="w-full lg:w-1/2">
-        <Lottie loc="/ani/home.json" />
+        <Lottie loc="/ani/circle.json" />
       </div>
       <div class="w-full lg:w-1/2">
         <div class="m-auto">
@@ -81,25 +81,19 @@ import { ref } from "vue";
 
 const team = ref([
   {
-    name: "Freddy Smith",
-    role: "CEO and Founder",
+    name: "Aman S",
+    role: "Advisor and Co-Founder",
     image: "https://cdn.devdojo.com/images/june2021/avt-03.jpg",
   },
   {
-    name: "Carl Jones",
-    role: "CTO and Co-Founder",
+    name: "Anchal J",
+    role: "Managing Director",
     image: "https://cdn.devdojo.com/images/june2021/avt-07.jpg",
   },
-
   {
-    name: "Ron Jenson",
-    role: "Senior Developer",
-    image: "https://cdn.devdojo.com/images/june2021/avt-14.jpg",
-  },
-  {
-    name: "Pete Tompkins",
-    role: "Web Developer",
-    image: "https://cdn.devdojo.com/images/june2021/avt-13.jpg",
+    name: "Madhav P",
+    role: " Lead Developer and Co-Founder",
+    image: "https://cdn.devdojo.com/images/june2021/avt-07.jpg",
   },
 ]);
 

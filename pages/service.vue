@@ -10,9 +10,6 @@
               IT CONSULTING
             </h3>
           </div>
-          <div class="w-full px-4 lg:w-1/2">
-            <Lottie loc="/ani/circle.json" />
-          </div>
         </div>
         <div class="flex flex-wrap -mx-4">
           <div class="w-full px-4 mb-12 lg:w-1/3 lg:mb-0">
@@ -49,9 +46,6 @@
             >
               COMPUTER FORENSICS
             </h3>
-          </div>
-          <div class="w-full px-4 lg:w-1/2">
-            <Lottie loc="/ani/circle.json" />
           </div>
         </div>
         <div class="flex flex-wrap -mx-4">
@@ -105,9 +99,6 @@
             >
               PROJECT DEVELOPMENT
             </h3>
-          </div>
-          <div class="w-full px-4 lg:w-1/2">
-            <Lottie loc="/ani/circle.json" />
           </div>
         </div>
         <div class="flex flex-wrap -mx-4">
