@@ -37,6 +37,9 @@
             <a href="https://t.me/hello2xpt" class="text-yellow-300">
               Telegram
             </a>
+
+            /
+            <a href="https://x.com/2xptcom" class="text-yellow-300"> X </a>
           </div>
         </div>
       </div>
