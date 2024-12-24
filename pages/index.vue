@@ -33,8 +33,6 @@
             <a href="mailto:2xpt@proton.me" class="text-yellow-300">
               2xpt@proton.me
             </a>
-            /
-            <a href="https://x.com/2xptcom" class="text-yellow-300"> X </a>
           </div>
         </div>
       </div>
