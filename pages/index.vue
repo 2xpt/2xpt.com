@@ -2,7 +2,7 @@
   <section class="py-5 lg:py-20">
     <div class="flex flex-wrap">
       <div class="w-full lg:w-3/5">
-        <Lottie loc="ani/home.json" />
+        <Lottie :loc="randomani" />
       </div>
       <div class="w-full lg:w-2/5">
         <div class="flex flex-col items-stretch justify-center h-full sm:items-start">
@@ -20,13 +20,18 @@
             </div>
           </div>
 
-          <div class="flex flex-wrap gap-4 font-mono text-lg uppercase mt-5">
-            <a href="mailto:2xpt@proton.me" class="text-blue-400 hover:text-blue-300 transition-colors duration-300 flex items-center"> 2xpt@proton.me </a>
-            <a href="https://t.me/+M_aVipwr_NUzMGE1" class="text-purple-400 hover:text-purple-300 transition-colors duration-300 flex items-center"> Telegram </a>
-            <a href="https://x.com/2xptcom" class="text-pink-400 hover:text-pink-300 transition-colors duration-300 flex items-center"> Twitter </a>
+          <div class="flex flex-wrap gap-4 mt-5 font-mono text-lg uppercase">
+            <a href="mailto:2xpt@proton.me" class="flex items-center text-blue-400 transition-colors duration-300 hover:text-blue-300"> 2xpt@proton.me </a>
+            <a href="https://t.me/+M_aVipwr_NUzMGE1" class="flex items-center text-purple-400 transition-colors duration-300 hover:text-purple-300"> Telegram </a>
+            <a href="https://x.com/2xptcom" class="flex items-center text-pink-400 transition-colors duration-300 hover:text-pink-300"> Twitter </a>
           </div>
         </div>
       </div>
     </div>
   </section>
 </template>
+
+<script setup>
+const lottieani = ["ani/home.json", "ani/circle.json"];
+const randomani = lottieani[Math.floor(Math.random() * lottieani.length)];
+</script>
