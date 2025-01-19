@@ -46,7 +46,7 @@ const team = ref([
   {
     name: "Anchal J",
     role: "Managing Director",
-    image: "https://ipfs.io/ipfs/QmV9NDihs8acD9bY2iQvcP9JmfY5iwJspzUKeBp5d64E8a",
+    image: "https://ipfs.io/ipfs/bafybeigbtca7y3tv7jptqj2fuhuzeotdjc7yzefoqwiuyjextephqvrklm",
   },
   {
     name: "Madhav P",
