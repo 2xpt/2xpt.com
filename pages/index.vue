@@ -21,9 +21,9 @@
           </div>
 
           <div class="my-3 font-mono text-base tracking-wide uppercase">
-            <a href="mailto:2xpt@proton.me" class="text-yellow-300"> 2xpt@proton.me </a>
+            <a href="mailto:2xpt@proton.me" class="text-yellow-300">Email</a>
 
-            <a href="https://t.me/+M_aVipwr_NUzMGE1" class="text-yellow-300"> Telegram Group </a>
+            <a href="https://t.me/+M_aVipwr_NUzMGE1" class="text-yellow-300"> Telegram </a>
 
             <a href="https://x.com/2xptcom" class="text-yellow-300"> X </a>
           </div>
