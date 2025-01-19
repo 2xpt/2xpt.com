@@ -30,16 +30,7 @@
   </section>
 
   <section class="py-20 my-20">
-    <div class="flex flex-wrap">
-      <div class="w-full lg:w-1/2">
-        <div class="flex flex-col items-stretch justify-center h-full sm:items-start">
-          <div class="my-5 text-lg font-bold tracking-widest text-transparent uppercase lg:text-7xl bg-gradient-to-r from-purple-500 to-red-500 bg-clip-text">Everything Possible</div>
-        </div>
-      </div>
-      <div class="w-full lg:w-1/2">
-        <div class="my-3 font-mono text-lg tracking-wide lg:text-2xl">We work together to create innovative solutions that are tailored to each client's needs. Our team is committed to excellence and we strive to exceed our clients' expectations.</div>
-      </div>
-    </div>
+    <div class="my-3 font-mono text-lg tracking-wide lg:text-2xl">We work together to create innovative solutions that are tailored to each client's needs. Our team is committed to excellence and we strive to exceed our clients' expectations.</div>
   </section>
 </template>
 
