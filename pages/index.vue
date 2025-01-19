@@ -20,7 +20,7 @@
             </div>
           </div>
 
-          <div class="flex flex-wrap gap-4 font-mono text-lg uppercase">
+          <div class="flex flex-wrap gap-4 font-mono text-lg uppercase mt-5">
             <a href="mailto:2xpt@proton.me" class="text-blue-400 hover:text-blue-300 transition-colors duration-300 flex items-center"> 2xpt@proton.me </a>
             <a href="https://t.me/+M_aVipwr_NUzMGE1" class="text-purple-400 hover:text-purple-300 transition-colors duration-300 flex items-center"> Telegram </a>
             <a href="https://x.com/2xptcom" class="text-pink-400 hover:text-pink-300 transition-colors duration-300 flex items-center"> Twitter </a>
