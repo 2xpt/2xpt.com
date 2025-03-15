@@ -22,8 +22,6 @@
 
           <div class="flex flex-wrap gap-4 mt-5 font-mono text-lg uppercase">
             <a href="mailto:2xpt@proton.me" class="flex items-center text-blue-400 transition-colors duration-300 hover:text-blue-300"> 2xpt@proton.me </a>
-            <a href="https://t.me/+M_aVipwr_NUzMGE1" class="flex items-center text-purple-400 transition-colors duration-300 hover:text-purple-300"> Telegram </a>
-            <a href="https://x.com/2xptcom" class="flex items-center text-pink-400 transition-colors duration-300 hover:text-pink-300"> Twitter </a>
           </div>
         </div>
       </div>
